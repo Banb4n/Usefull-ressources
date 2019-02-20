@@ -1,5 +1,5 @@
 # Usefull-ressources
-A list of awesome usefull ressources (post, repo, lib, ...)
+A list of awesome usefull ressources
 
 
 ## Github repo
@@ -25,6 +25,8 @@ A list of awesome usefull ressources (post, repo, lib, ...)
 ## Training
   - [CSS Diner](https://flukeout.github.io/)
 
+## CheatSheets 
+  - [Regex](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a)
 
 ## Services
   - [Cool background](https://coolbackgrounds.io/)
