@@ -19,8 +19,10 @@ A list of awesome usefull ressources
 ## Lib
   - [Evergreen (React)](https://evergreen.segment.com/)
   - [Ant design](https://ant.design/)
-  - [icdiff](https://www.jefftk.com/icdiff)
   - [Color (js)](https://github.com/Qix-/color)
+  
+## CLI
+  - [icdiff](https://www.jefftk.com/icdiff)
   
 ## Training
   - [CSS Diner](https://flukeout.github.io/)
