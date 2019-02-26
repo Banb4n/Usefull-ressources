@@ -13,6 +13,8 @@
  - [Why Facebook's api starts with a for loop](https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob?fbclid=IwAR1-yAlmiWxVwwex3i7BVy_Jg5Ltg7G8AfhpYCoQjowZj1g-1IweilmjOmk)
  - [https-explained-with-carrier-pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
  - [animating-urls-with-javascript-and-emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/)
+ - [⚡️ From React to an Electron app ready for production](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
+
 ## Lessons
 
 
