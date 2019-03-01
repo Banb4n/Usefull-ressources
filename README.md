@@ -16,6 +16,7 @@
  - [⚡️ From React to an Electron app ready for production](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
 
 ## Lessons
+  - [React Redux tutorial](https://www.valentinog.com/blog/redux/#React_Redux_tutorial_who_this_guide_is_for)
 
 
 ## Lib
