@@ -14,6 +14,7 @@
  - [https-explained-with-carrier-pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
  - [animating-urls-with-javascript-and-emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/)
  - [⚡️ From React to an Electron app ready for production](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
+ - [How you can style your terminal like freecodecamp or any way you want](https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc)
 
 ## Lessons
   - [React Redux tutorial](https://www.valentinog.com/blog/redux/#React_Redux_tutorial_who_this_guide_is_for)
