@@ -33,6 +33,7 @@
 
 ## CheatSheets 
   - [Regex](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a)
+  - [CMD](https://media.licdn.com/dms/image/C5122AQFQcPy9nvFA4w/feedshare-shrink_8192/0?e=1557964800&v=beta&t=yctmOENK5Tm-e26fYtI0qp9D1W0A58UEBwELknvhNfQ)
 
 ## Services
   - [Cool background](https://coolbackgrounds.io/)
